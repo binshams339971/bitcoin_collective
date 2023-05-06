@@ -2,7 +2,8 @@ html,
 body {
   padding: 0;
   margin: 0;
-  background: #FFFFFF;
+  background: radial-gradient(ellipse at top, #c6d1ee, transparent),
+    radial-gradient(ellipse at bottom, #59637d, transparent);
   font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
@@ -21,6 +22,7 @@ a {
   html {
     color-scheme: dark;
   }
+
   body {
     color: white;
     /* background: black; */

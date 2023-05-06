@@ -9,7 +9,8 @@ import Image from 'next/image'
 const Home: NextPage = () => {
   return (
     <div className='t-p-8'>
-      <div className='t-bg-[#1E1E1E] t-min-h-96 t-rounded-xl'>
+      {/* lg:t-max-w-[1400px] t-m-auto */}
+      <div className='t-bg-[#1E1E1E] t-min-h-96 t-rounded-xl '> 
         <Navbar />
         <div className='t-px-8'>
           <span className='t-text-[#EFF5FF] t-text-[70px]'>Web3 on Bitcoin </span>

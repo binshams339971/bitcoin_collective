@@ -8,7 +8,7 @@ export default function CategorySection() {
         <div className='t-p-8'>
             <div className="t-flex t-justify-between t-gap-4 t-w-full t-flex-wrap">
                 <div className='t-col-span-1'>
-                    <div onMouseEnter={() => setHovered(1)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-4 t-rounded-3xl t-w-[160px]'>
+                    <div onMouseEnter={() => setHovered(1)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-6 t-rounded-3xl t-w-[180px]'>
                         <div className='t-flex t-justify-center t-gap-2'>
                             <div className='t-mt-0.5'>
                                 <Image src='/images/wallet.png' width={20} height={16} alt="wallet" />
@@ -25,7 +25,7 @@ export default function CategorySection() {
                     </div>
                 </div>
                 <div className='t-col-span-1'>
-                    <div onMouseEnter={() => setHovered(2)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-4 t-rounded-3xl t-w-[160px]'>
+                    <div onMouseEnter={() => setHovered(2)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-6 t-rounded-3xl t-w-[180px]'>
                         <div className='t-flex t-justify-center t-gap-2'>
                             <div className='t-mt-0.5'>
                                 <Image src='/images/wallet.png' width={20} height={16} alt="wallet" />
@@ -43,7 +43,7 @@ export default function CategorySection() {
                 </div>
 
                 <div className='t-col-span-1'>
-                    <div onMouseEnter={() => setHovered(3)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-4 t-rounded-3xl t-w-[160px]'>
+                    <div onMouseEnter={() => setHovered(3)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-6 t-rounded-3xl t-w-[180px]'>
                         <div className='t-flex t-justify-center t-gap-2'>
                             <div className='t-mt-0.5'>
                                 <Image src='/images/wallet.png' width={20} height={16} alt="wallet" />
@@ -61,7 +61,7 @@ export default function CategorySection() {
                 </div>
 
                 <div className='t-col-span-1'>
-                    <div onMouseEnter={() => setHovered(4)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-4 t-rounded-3xl t-w-[160px]'>
+                    <div onMouseEnter={() => setHovered(4)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-6 t-rounded-3xl t-w-[180px]'>
                         <div className='t-flex t-justify-center t-gap-2'>
                             <div className='t-mt-0.5'>
                                 <Image src='/images/wallet.png' width={20} height={16} alt="wallet" />
@@ -79,7 +79,7 @@ export default function CategorySection() {
                 </div>
 
                 <div className='t-col-span-1'>
-                    <div onMouseEnter={() => setHovered(5)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-4 t-rounded-3xl t-w-[160px]'>
+                    <div onMouseEnter={() => setHovered(5)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-6 t-rounded-3xl t-w-[180px]'>
                         <div className='t-flex t-justify-center t-gap-2'>
                             <div className='t-mt-0.5'>
                                 <Image src='/images/wallet.png' width={20} height={16} alt="wallet" />
@@ -97,7 +97,7 @@ export default function CategorySection() {
                 </div>
 
                 <div className='t-col-span-1'>
-                    <div onMouseEnter={() => setHovered(6)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-4 t-rounded-3xl t-w-[160px]'>
+                    <div onMouseEnter={() => setHovered(6)} onMouseLeave={() => setHovered(0)} className='t-border hover:t-border-0 t-border-dashed t-border-[#747AA8] hover:-t-translate-y-2 t-transition t-duration-200 hover:t-ease-in hover:t-bg-[#737EC7]/30 hover:t-backdrop-blur-xl t-p-6 t-rounded-3xl t-w-[180px]'>
                         <div className='t-flex t-justify-center t-gap-2'>
                             <div className='t-mt-0.5'>
                                 <Image src='/images/wallet.png' width={20} height={16} alt="wallet" />
